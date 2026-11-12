@@ -6,7 +6,7 @@ The goal of this portfolio is to demonstrate the transition from manual desktop 
 
 ## 🌐 Live Web Map
 🔗 **[Click here to view the interactive Leaflet Web Map) https://kamomokwele0-wq.github.io/SA-WATER-INFRASTRUCTURE/ **
-![Web Map Preview](webmap_preview.png)
+![Web Map Preview](webmap-preview.png)
 
 ## 🛠️ Tech Stack
 *   **PostgreSQL & PostGIS** - For spatial data storage and querying
