@@ -5,7 +5,7 @@ This repository contains the database backend and mapping portfolio for the SA W
 The goal of this portfolio is to demonstrate the transition from manual desktop GIS workflows (shapefiles and Excel) to an enterprise spatial database. By using SQL and PostGIS, we can query, filter, and analyze municipal assets directly at the database level in milliseconds.
 
 ## 🌐 Live Web Map
-🔗 **[Click here to view the interactive Leaflet Web Map](https://kamokwele0-wq.github.io/SA-WATER-INFRASTRUCTURE/)**
+🔗 **[Click here to view the interactive Leaflet Web Maphttps://kamomokwele0-wq.github.io/SA-WATER-INFRASTRUCTURE/]**
 
 ## 🛠️ Tech Stack
 *   **PostgreSQL & PostGIS** - For spatial data storage and querying
