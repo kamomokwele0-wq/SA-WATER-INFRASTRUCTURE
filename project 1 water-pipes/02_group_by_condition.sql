@@ -1,0 +1,3 @@
+SELECT "ASSET ID ", "BOOK VALUE ", "CONDITION "
+FROM public."water-pipes"
+WHERE "BOOK VALUE " < 30000;
